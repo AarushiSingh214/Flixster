@@ -39,6 +39,7 @@ GIF created with [Kap](https://getkap.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had a little trouble understanding how everything connects together but I understand more now. I also had trouble submitting the gifs because it wouldn't let me submit one gif beause of the length so I had to submit multiple to support the size. I also had problems with my terminal.
 
 ## Open-source libraries used
 
